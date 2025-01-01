@@ -1,0 +1,9 @@
+print("##when this clicked##")
+text=str(input("enter any message"))
+
+print(text)
+
+#reverse magic text
+rev_text = text[::-1]
+print("your magicly reversed text is:\n" + rev_text)
+
