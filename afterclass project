@@ -1,0 +1,4 @@
+
+text = input("Enter your message: ")
+uppercase_text = text.upper()
+print("Uppercase:", uppercase_text)

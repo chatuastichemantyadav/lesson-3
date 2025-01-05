@@ -1,0 +1,56 @@
+import keyboard
+while True:
+    if keyboard.is_pressed('a'):
+        print("successful test 1")
+    if keyboard.is_pressed('b'):
+        print("successful test 2")
+    if keyboard.is_pressed('c'):
+        print("successful test 3")
+    if keyboard.is_pressed('d'):
+        print("successful test 4")    
+    if keyboard.is_pressed('e'):
+        print("successful test 5")
+    if keyboard.is_pressed('f'):
+        print("successful test 6")
+    if keyboard.is_pressed('g'):
+        print("successful test 7")
+    if keyboard.is_pressed('h'):
+        print("successful test 8")    
+    if keyboard.is_pressed('i'):
+        print("successful test 9")
+    if keyboard.is_pressed('j'):
+        print("successful test 10")
+    if keyboard.is_pressed('k'):
+        print("successful test 11")
+    if keyboard.is_pressed('l'):
+        print("successful test 12")    
+    if keyboard.is_pressed('m'):
+        print("successful test 13")
+    if keyboard.is_pressed('n'):
+        print("successful test 14")
+    if keyboard.is_pressed('o'):
+        print("successful test 15")
+    if keyboard.is_pressed('p'):
+        print("successful test 16")     
+    if keyboard.is_pressed('q'):
+        print("successful test 17")
+    if keyboard.is_pressed('r'):
+        print("successful test 18")    
+    if keyboard.is_pressed('s'):
+        print("successful test 19")
+    if keyboard.is_pressed('t'):
+        print("successful test 20")
+    if keyboard.is_pressed('u'):
+        print("successful test 21")
+    if keyboard.is_pressed('v'):
+        print("successful test 22")     
+    if keyboard.is_pressed('w'):
+        print("successful test 23")
+    if keyboard.is_pressed('x'):
+        print("successful test 24")
+    if keyboard.is_pressed('y'):
+        print("successful test 25")    
+    if keyboard.is_pressed('z'):
+        print("successful test 26")
+    if keyboard.is_pressed('spacebar'):
+        print("test successful 27")
